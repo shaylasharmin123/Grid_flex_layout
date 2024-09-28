@@ -1,2 +1,2 @@
 # Grid_flex_layout
-Here is the code of grid_flex_layout project.
+ https://shaylasharmin123.github.io/Grid_flex_layout/
